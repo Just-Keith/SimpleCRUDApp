@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using RazorPagesMovie.Models;
 
+
     public class RazorPagesMovieContext : DbContext
     {
         public RazorPagesMovieContext (DbContextOptions<RazorPagesMovieContext> options)
