@@ -13,5 +13,5 @@ using RazorPagesMovie.Models;
         {
         }
 
-        public DbSet<RazorPagesMovie.Models.Movie> Movie { get; set; } = default!;
+        public DbSet<RazorPagesMovie.Models.Movie>Movie { get; set; } = default!;
     }
