@@ -280,3 +280,8 @@ C:\Users\pc\RazorPagesMovie\obj\Debug\net6.0\refint\RazorPagesMovie.dll
 C:\Users\pc\RazorPagesMovie\obj\Debug\net6.0\RazorPagesMovie.pdb
 C:\Users\pc\RazorPagesMovie\obj\Debug\net6.0\RazorPagesMovie.genruntimeconfig.cache
 C:\Users\pc\RazorPagesMovie\obj\Debug\net6.0\ref\RazorPagesMovie.dll
+C:\Users\pc\RazorPagesMovie\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pc\RazorPagesMovie\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\RazorPagesMovie\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\RazorPagesMovie\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\RazorPagesMovie\obj\Debug\net6.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cs

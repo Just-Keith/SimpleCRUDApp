@@ -14,6 +14,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SQLite" Version="6.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.7" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.7" />
+    <PackageReference Include="Swashbuckle.Aspnetcore" Version="6.4.0" />
   </ItemGroup>
 
 </Project>
